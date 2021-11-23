@@ -1,3 +1,13 @@
+Lab 3 - Datametica-asgns 
+    modify project/any files
+    commit logs
+    Create a file "firstnameLastnameDay1.txt" /.doc 
+      Whatever theory and commands which we discussed
+      https://git-scm.com/videos
+      https://git-scm.com/book/en/v2/
+        1. Getting Started (must)
+        2. Git Basics
+--------
 Lab 2 - local repository
   create a new folder(datatmp)
     cmd>dir (hidden folder -> options)
