@@ -1,3 +1,17 @@
+Lab 2 - local repository
+  create a new folder(datatmp)
+    cmd>dir (hidden folder -> options)
+    cmd>git init 
+      a folder will be create (dir)
+    cmd>git status
+    create two text files(aa.txt, bb.txt) (editor)
+    cmd>git add aa.txt
+    cmd>git status / git show / git log
+    cmd>git commit -m message
+    cmd>git status / git show / git log
+   -------> modify the file (aa.txt and repeat operations to see those changes
+   -------> git add bb.txt , commit, observe
+----------------
 Lab 1 - 
   https://github.com/join
   Create a new github login (if not available)
