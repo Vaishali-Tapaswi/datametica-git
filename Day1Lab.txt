@@ -1,0 +1,15 @@
+Lab 1 - 
+  https://github.com/join
+  Create a new github login (if not available)
+  
+  Create a new repository "tmp"
+    public
+    Initialize this repository with: readme
+   
+  create demo.txt
+    add one line -> commit (with comment)
+    add one more line -> commit
+    delete a line -> commit
+  demo.txt
+    check history
+    
