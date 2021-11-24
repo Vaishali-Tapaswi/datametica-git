@@ -1,3 +1,21 @@
+Lab 2 - Github - create  a new repo day2 without readme file
+		copy instruction set to new repo
+		
+		Lab1 - git init
+		Lab1 - git add README.md
+		Lab1 - git commit -m "first commit"
+		git branch -M main
+			-> create,list or remove branches
+      -> -M - rename current branch to main (master to main)
+      
+		git remote add day2 https://github.com/Vaishali-Tapaswi/day2.git
+		
+    git push -u day2 main
+    -> will ask for auth -> read error messages 
+      https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+    ->   
+      
+---------------
 Lab1 - 
   Create a folder (tmp)
     create two files (aa.txt, bb.txt)
