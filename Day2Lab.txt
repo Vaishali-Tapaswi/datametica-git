@@ -1,0 +1,29 @@
+Lab1 - 
+  Create a folder (tmp)
+    create two files (aa.txt, bb.txt)
+    check dir (no .git folder)
+  cmd in tmp>git status
+      -> error (fatal: not a git repository (or any of the parent directories): .git)
+  cmd in tmp>git init
+      -> check dir (for .git folder)
+  cmd in tmp>git status
+    -> untracked files
+  cmd in tmp>git add aa.txt
+    -> aa.txt is getting shifted from working files to stage (git starts tracking aa.txt)
+  cmd in tmp>git status
+    -> tracked files(Changes to be committed (new)), untracked files 
+  cmd in tmp>git commit -m "message ..."
+    -> staged files shifted from stage to branches(master)
+  cmd in tmp>git status
+    -> no mention of aa.txt (aa.txt in working folder is same as master branch), untracked files(bb.txt)
+  .. modify aa.txt
+    check impact (status) -> modified (red colour)
+  .. modify bb.txt
+    no impact
+  .. add, commit...
+-------> understand working, staging, branch ..  
+    
+  
+   
+  
+  
