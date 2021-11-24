@@ -1,3 +1,21 @@
+Lab 3  - Github - create  a new repo day2 without readme file
+		copy instruction set to new repo
+	
+	Two command prompts with two directories (dev1, dev2)
+	on dev1, dev2 both
+		git remote add (with tocken) //git remote add day2 https://tocken@github.com/Vaishali-Tapaswi/day2.git
+	dev1
+		create two / three files,..... git push
+	dev2
+		create two / three files (different names from dev1)
+		git init... git push (observe error )
+	delete dev2 folder and recreate folder +files
+		git init
+		git pull url
+		git remote add ...
+		commit
+		git push........
+	Observe commits on github repo
 Lab 2 - Github - create  a new repo day2 without readme file
 		copy instruction set to new repo
 		
