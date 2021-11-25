@@ -1,10 +1,11 @@
 Lab 2 - 
   commit (working tree = commited)
   modify t1.java file
-  check diff
+  check diff -> git diff
   get the t1.java from commit (so all the changes which are done to working directory are lost)
-  
+    --> commit id (git log)
   remove any java file ->
+  
   commit 
    .java file what part of commit 1 and not part commit2
 
