@@ -1,0 +1,30 @@
+Lab 2 - 
+  commit (working tree = commited)
+  modify t1.java file
+  check diff
+  get the t1.java from commit (so all the changes which are done to working directory are lost)
+  
+  remove any java file ->
+  commit 
+   .java file what part of commit 1 and not part commit2
+
+Lab 1 - 
+  create new repo 
+  add *.java, *.py , *.txt files
+  check the status to confirm all untracked files
+  add *.java (to staging )
+  create .gitignore to remote *.txt from tracking
+  Modify one file from .java 
+  ----> show status -> tracked(no change), tracked(Changed), untracked -> *.txt should not shown in untracked file
+  
+  commit
+    git status
+    git diff
+    git log
+    
+ Modify a file 
+  commit
+    git status
+    git diff
+    git log
+    
