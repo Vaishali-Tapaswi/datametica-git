@@ -1,3 +1,5 @@
+Lab 3 - 
+  push all the current changes to remote repository
 Lab 2 - 
   commit (working tree = commited)
   modify t1.java file
@@ -5,9 +7,11 @@ Lab 2 -
   get the t1.java from commit (so all the changes which are done to working directory are lost)
     --> commit id (git log)
   remove any java file ->
-  
+    --> git rm ..
   commit 
-   .java file what part of commit 1 and not part commit2
+     .java file what part of commit 1 and not part commit2
+     git checkout sha filename
+   
 
 Lab 1 - 
   create new repo 
