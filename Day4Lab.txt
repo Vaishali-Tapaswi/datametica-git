@@ -1,0 +1,11 @@
+Lab1 
+  Branch - create, modify, merge (Git webapp)
+                            Conflict(same file modified in two branches)
+                            
+  git branch (https://git-scm.com/docs/git-branch)
+    create a new branch
+    list
+    
+  git clone 
+    to get any branch other than master
+    
