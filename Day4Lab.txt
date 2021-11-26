@@ -1,3 +1,21 @@
+Lab 2 
+create two text files (aaa.txt, readme.txt)
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://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@github.com/Vaishali-Tapaswi/tmp4.git
+git push -u origin master
+
+
+git rm aaa.txt
+git commit -m "first commit"
+git push -u origin master
+----------- removed from stage,local, remote final commit
+
+git checkout 806e2749ec476605cfdaa00aadea3cce7bed9053 -- aaa.txt
+	--- retrive from earlier commits
+
+-----------
 Lab1 
   Branch - create, modify, merge (Git webapp)
                             Conflict(same file modified in two branches)
